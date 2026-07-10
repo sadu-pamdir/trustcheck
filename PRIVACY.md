@@ -45,3 +45,17 @@ Last updated: 2026-07-10
 - Content-Script auf allen Seiten (`matches: <all_urls>`): nötig, weil der Vertrauens-Score auf jeder beliebigen Seite berechnet werden soll. Ohne breiten Zugriff könnte die Erweiterung nur auf einer Whitelist von Seiten warnen, was den Zweck (Warnung genau auf unbekannten Seiten) untergraben würde. Da kein Netz-Call stattfindet, braucht die Erweiterung kein `host_permissions` und kein `activeTab`.
 
 **Kontakt:** Sadu Pamdir — über das [GitHub-Repository](https://github.com/sadu-pamdir/trustcheck).
+
+---
+
+## Liability and warranty notice
+
+TrustCheck is a heuristic early warning tool. It provides an automated assessment based on local patterns and replaces neither a reliable security audit nor your own due diligence. A high score is not an assurance that a website is safe, and a low score is not proof of fraud.
+
+TrustCheck is provided free of charge and without any warranty, on an "as is" basis. The provider accepts no liability for decisions you make based on the displayed score. Liability for slight negligence is excluded to the extent permitted by law; liability for intent and gross negligence remains in force.
+
+## Haftungs- und Gewährleistungshinweis
+
+TrustCheck ist ein heuristisches Frühwarn-Werkzeug. Es liefert eine automatisierte Einschätzung anhand lokaler Muster und ersetzt weder eine verlässliche Sicherheitsprüfung noch deine eigene Sorgfalt. Ein hoher Score ist keine Zusicherung, dass eine Website sicher ist, und ein niedriger Score ist kein Beweis für Betrug.
+
+TrustCheck wird unentgeltlich und ohne jede Gewährleistung im Ist-Zustand („as is") bereitgestellt. Für Entscheidungen, die du auf Basis des angezeigten Scores triffst, übernimmt der Anbieter keine Haftung. Eine Haftung für leichte Fahrlässigkeit ist ausgeschlossen, soweit gesetzlich zulässig; die Haftung für Vorsatz und grobe Fahrlässigkeit bleibt bestehen.

@@ -59,3 +59,8 @@ TrustCheck is provided free of charge and without any warranty, on an "as is" ba
 TrustCheck ist ein heuristisches Frühwarn-Werkzeug. Es liefert eine automatisierte Einschätzung anhand lokaler Muster und ersetzt weder eine verlässliche Sicherheitsprüfung noch deine eigene Sorgfalt. Ein hoher Score ist keine Zusicherung, dass eine Website sicher ist, und ein niedriger Score ist kein Beweis für Betrug.
 
 TrustCheck wird unentgeltlich und ohne jede Gewährleistung im Ist-Zustand („as is") bereitgestellt. Für Entscheidungen, die du auf Basis des angezeigten Scores triffst, übernimmt der Anbieter keine Haftung. Eine Haftung für leichte Fahrlässigkeit ist ausgeschlossen, soweit gesetzlich zulässig; die Haftung für Vorsatz und grobe Fahrlässigkeit bleibt bestehen.
+
+## Data controller / Verantwortlicher
+
+**Controller:** Sadu Pamdir, Switzerland
+**Contact for privacy requests / Kontakt für Datenschutzanfragen:** sadullah.pamdir@gmail.com

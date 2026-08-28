@@ -2,6 +2,8 @@
 
 Offline trust score for websites. Coming to the Chrome Web Store.
 
+> **About this repository:** it hosts the Chrome Web Store required documents only — this README and the privacy policy. The extension source code is not in this repository, so nothing here can be verified against code. Everything described below refers to the extension, not to this repo.
+
 TrustCheck shows an instant trust badge with a score from 0 to 100 on every website, so you can spot warning signs before you enter an email address, a password or payment details. It runs fully offline, sends nothing, and stores nothing remotely.
 
 ## What it does
